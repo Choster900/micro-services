@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Choster900/product-service-rest.git
+          uri: https://github.com/Choster900/micro-services.git
           searchPaths: config-data
           #Vamos a trabajar con variables de entorno
           username: ${GIT_USER}
